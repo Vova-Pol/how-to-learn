@@ -56,6 +56,10 @@
   z-index: 2;
 }
 
+.header__link {
+  color: #2f80ed;
+}
+
 .header__main-illustration {
   position: absolute;
   width: 765px;
@@ -95,8 +99,9 @@
 .two-columns__title {
   line-height: 1.2;
   font-size: 18px;
-  font-style: normal;
+  font-weight: normal;
   margin: 0;
+  color: #2f80ed;
 }
 
 .two-columns__main-text {
@@ -119,6 +124,52 @@
 
 .two-columns__paragraph_margin_none {
   margin: 0;
+}
+
+.section-title {
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+  width: 60%;
+  margin: 100px auto 0;
+  text-align: center;
+}
+
+.section-subtitle {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  width: 60%;
+  margin: 20px auto 0;
+  text-align: center;
+}
+
+.table {
+  width: 1100px;
+  border: 3px red solid;
+  margin: 0 auto 100px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.table__cell {
+  width: 250px;
+  border: 3px blue solid;
+  margin-top: 60px;
+}
+
+.table__cell__heading {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table__cell__text {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 20px;
 }
 
 /* и элемента с модификатором вида ключ-значение */
