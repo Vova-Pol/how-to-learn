@@ -1,3 +1,4 @@
+/*
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -52,7 +53,7 @@
   bottom: 30px;
   left: 64px;
   z-index: 2;
-}
+} 
 
 .header__link {
   color: #2f80ed;
@@ -93,7 +94,7 @@
 
 .two-columns__brief {
   width: 175px;
-}
+} 
 
 .two-columns__title {
   margin: 0;
@@ -210,10 +211,6 @@
   font-weight: normal;
 }
 
-/* Сомневался, является ли тег <a> текстовым элементом (логика: внутри
-тега текст, значит элемент текстовый), но, погуглив, нашел определение
-<a>: The Anchor element, поэтому обнулять отступы для ссылок не стал ↓ */
-
 .feynman__link {
   line-height: 51px;
   font-size: 36px;
@@ -285,10 +282,6 @@
   justify-content: space-between;
 }
 
-/* Долго не мог понять, какое поведение должны передавать модификаторы
-content_info и content_social. Старший студент подсказал, что на
-данном этапе можно их не задавать, если внешний вид совпадает с брифом. */
-
 .logo_place_footer {
   background-image: url(/images/logo_place_footer.svg);
 }
@@ -328,3 +321,5 @@ content_info и content_social. Старший студент подсказал
   height: 16px;
   margin-right: 10px;
 }
+
+*/
