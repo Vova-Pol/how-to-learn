@@ -1,0 +1,6 @@
+.video__iframes {
+  text-align: center;
+  font-size: 20px; /* задал расстояние между элементами */
+  line-height: 0; /* для удобства подсчета общей высоты блока video */
+  margin-top: 50px;
+}
