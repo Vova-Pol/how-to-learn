@@ -5,6 +5,7 @@
   position: absolute;
   top: 0;
   right: -210px;
-  background-position-x: right;
-  background-position-y: top;
+  background-position: right top;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
