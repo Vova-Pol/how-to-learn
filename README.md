@@ -33,7 +33,7 @@ git clone git@github.com:Vova-Pol/how-to-learn.git
 2. Открываем файл index.html
 3. Готово!
 
-### Технологии используемые в проетке
+### Технологии, используемые в проетке
 
 - BEM
 - Flex Layout
