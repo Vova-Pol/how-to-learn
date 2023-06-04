@@ -22,3 +22,21 @@
 - resources
 - footer
 
+## Запуск проекта
+
+1. Клонируем репозиторий
+
+```sh
+git clone git@github.com:Vova-Pol/how-to-learn.git
+```
+
+2. Открываем файл index.html
+3. Готово!
+
+### Технологии используемые в проетке
+
+- BEM
+- Flex Layout
+- CSS анимации
+- Семантические HTML теги
+- iframe
